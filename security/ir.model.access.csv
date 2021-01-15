@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_convalidaciones_app_alumno_model,convalidaciones_app.alumno_model,model_convalidaciones_app_alumno_model,,1,1,1,1
+access_convalidaciones_app_modulo_model,convalidaciones_app.modulo_model,model_convalidaciones_app_modulo_model,,1,1,1,1
+access_convalidaciones_app_conva_model,convalidaciones_app.conva_model,model_convalidaciones_app_conva_model,,1,1,1,1
+access_convalidaciones_app_ciclo_model,convalidaciones_app.ciclo_model,model_convalidaciones_app_ciclo_model,,1,1,1,1
+access_convalidaciones_profesor_model,convalidaciones.profesor_model,model_convalidaciones_profesor_model,,1,1,1,1

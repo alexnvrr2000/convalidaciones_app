@@ -1,0 +1,10 @@
+<odoo>
+  <data>
+    <menuitem name="Convalidaciones" id="convalidaciones_app.menu_root" />
+    <menuitem name="Alumnos" id="convalidaciones_app.menu_alumno" parent="convalidaciones_app.menu_root" action="convalidaciones_app.action_window_alumno"/>
+    <menuitem name="Modulos" id="convalidaciones_app.menu_modulo" parent="convalidaciones_app.menu_root" action="convalidaciones_app.action_window_modulo"/>
+    <menuitem name="Convalidaciones" id="convalidaciones_app.menu_conva" parent="convalidaciones_app.menu_root" action="convalidaciones_app.action_window_conva"/>
+    <menuitem name="Ciclos" id="convalidaciones_app.menu_ciclo" parent="convalidaciones_app.menu_root" action="convalidaciones_app.action_window_ciclo"/>
+
+  </data>
+</odoo>
